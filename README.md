@@ -50,3 +50,7 @@ Select the Micropython interpreter to redirect execution to the Raspberry.
 
 ![image](https://github.com/danielapavas/RaspberryPi-and-Buzzer/assets/75345956/abbfdf32-4c00-4eaa-87cd-18545d7b0463)
 
+
+## Final Demonstration Video
+
+- [Final video](https://youtu.be/2aKHhOgiZPM) 
